@@ -32,4 +32,4 @@ I used the exercise to practise interpreting security alerts, identifying the as
 
 I'd like to build more confidence reading raw logs and investigating less guided scenarios, where the answer isn't already structured around a set of questions.
 
-*This portfolio contains coursework completed in an authorised training environment.*
+*The practical activities in this portfolio were completed using TryHackMe's simulated training environment as part of my university coursework.*
