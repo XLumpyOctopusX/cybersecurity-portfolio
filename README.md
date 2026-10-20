@@ -1,36 +1,35 @@
-
 # Cybersecurity Portfolio
 
 **ITECH1502 – Cybersecurity Fundamentals**  
 Federation University Australia
 
-## About This Portfolio
+## About this portfolio
 
-This portfolio documents my practical learning and development in cybersecurity as part of ITECH1502 Cybersecurity Fundamentals at Federation University.
+I'm studying cybersecurity fundamentals and using practical exercises to get more comfortable with the tools and decisions involved in defensive security.
 
-It demonstrates my understanding of cybersecurity concepts, practical security tools, and the importance of identifying and responding to potential security threats.
+This portfolio records the work I completed as part of ITECH1502. My focus so far has been understanding how security events are detected, what information analysts look at, and why it matters to investigate an alert before deciding how to respond.
 
-## Cybersecurity Project
+## Featured project
 
-### Introduction to SIEM – TryHackMe
+### [Investigating a Suspicious Process Using SIEM](SIEM-Project.md)
 
-This project focuses on Security Information and Event Management (SIEM), exploring how organisations collect and analyse security logs to identify suspicious activity and potential cyber threats.
+For this project, I completed TryHackMe's *Introduction to SIEM* room and investigated a suspicious process in a simulated SOC dashboard.
 
-The project documents my learning experience, practical activities, results, and reflections.
+I used the exercise to practise interpreting security alerts, identifying the associated user and host, and distinguishing a true positive from a false positive.
 
-**[View My SIEM Project](SIEM-Project.md)**
+**[Read the project, methodology, evidence and reflection →](SIEM-Project.md)**
 
-## Skills and Knowledge
+## Skills I practised
 
-- Security monitoring and log analysis
-- Security Information and Event Management (SIEM)
-- Identifying potential security threats
-- Understanding security alerts and false positives
-- Cybersecurity incident detection
-- Ethical cybersecurity practices
+- Understanding SIEM and SOC workflows
+- Reading process and alert information
+- Connecting an event to a user and host
+- Examining why a detection rule was triggered
+- Explaining an investigation result
+- Recognising the limits of simulated evidence
 
-## Learning Objectives
+## What I want to improve next
 
-My goal is to develop practical cybersecurity skills and strengthen my understanding of how security professionals protect systems, networks, and information.
+I'd like to build more confidence reading raw logs and investigating less guided scenarios, where the answer isn't already structured around a set of questions.
 
-Through hands-on activities, I aim to connect theoretical knowledge from university with practical cybersecurity scenarios.
+*This portfolio contains coursework completed in an authorised training environment.*
